@@ -130,8 +130,8 @@ The **Pulse Sensor** works on the principle of **Photoplethysmography (PPG)** �
 
 ## 🧑‍💻 Author
 
-- **Farida Ayman** → [GitHub Profile](https://github.com/FaridaAyman)  
 - **Nada Attia** → [GitHub Profile](https://github.com/NadaAttia04)  
+- **Farida Ayman** → [GitHub Profile](https://github.com/FaridaAyman)  
 - **Rodina Ahmed** → [GitHub Profile](https://github.com/RodinaAhmed)
 
 ---
